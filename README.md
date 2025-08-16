@@ -49,6 +49,6 @@ An **Admin Panel in React.js** for project management and dashboard features.
 ---
 
 ## 📫 Connect With Me  
-[LinkedIn](https://linkedin.com/in/YourLinkedInHere) · [GitHub](https://github.com/Hammad-Solutions) · [Email](mailto:m6784104@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/muhammad-hammad-5b82a7255/) · [GitHub](https://github.com/Hammad-Solutions) · [Email](mailto:m6784104@gmail.com)  
 
 ---
