@@ -29,8 +29,6 @@ Passionate about building **clean, scalable, and efficient applications**.
 ### 🔹 WeatherApp
 Simple weather application using **HTML, CSS, JavaScript, and a Weather API** to display real-time weather updates.
 
-### 🔹 AwareWear - IoT Smart Helmet
-IoT-based **Smart Helmet** to ensure worker safety on construction sites. Sensors + real-time monitoring.
 
 ### 🔹 Skylarks React Web
 A **React.js website** with responsive UI and clean design for an IT solutions company.
