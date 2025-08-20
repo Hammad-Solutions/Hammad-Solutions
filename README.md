@@ -14,9 +14,8 @@ Passionate about building **clean, scalable, and efficient applications**.
 ---
 
 ## 📊 GitHub Stats  
-![Hammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hammad-Solutions&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad-Solutions&layout=compact&theme=dark)  
-
+![Hammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hammad-Solutions&show_icons=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad-Solutions&layout=compact&theme=default)
 ---
 
 ## 🌱 Currently Learning  
